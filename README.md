@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evren724
-- 👀 I’m interested in programming languages especially C# and Java
-- 🌱 I’m currently learning C# and java
+- 👀 I’m interested in programming languages especially C#, VB and Java
+- 🌱 I’m currently learning C#, VB and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  evren@kavusturan.com
 
